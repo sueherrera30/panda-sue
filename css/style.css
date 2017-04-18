@@ -79,10 +79,12 @@ img{
   width: 300px;
   text-align: justify;
   margin: 10px;
+  position:relative;
 
 
 
 }
 .texto2{
 color:#CC99CC;
+position: relative;
 }
