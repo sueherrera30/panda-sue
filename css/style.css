@@ -24,6 +24,7 @@ a:hover{
   color:#D3D3D3;
 }
 #almacenImagenes{
+  display:inline-block;
   margin-left: 300px;
   margin-top: 15px;
 }
