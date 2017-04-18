@@ -34,7 +34,40 @@ img{
   width:150px;
   height: 150px;
   border-radius: 20px;
-  image-orientation:
+  border-color:#FFE4C4;
+}
+#almacenBotones{
+  margin-left: 210px;
+  margin-top: 20px;
+  padding: 10px;
+}
+.botoncitos{
+  display:inline-block;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 100%;
+  background-color:#D8BFD8;
+  border: solid 2px #FFCC99;
+  margin:10px;
+  color:#228B22;
+  width: 260px;
+  height: 60px;
+  text-align: center;
+}
+#almacenTexto{
+  margin-left:350px;
+}
+.texto{
+  font-family: 'Sniglet', cursive;
+  font-size: 100%;
+  color: #228B22;
+  display: inline-block;
+  width: 300px;
+  text-align: justify;
+  margin: 10px;
 
 
+
+}
+.texto2{
+color:#CC99CC;
 }
