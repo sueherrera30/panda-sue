@@ -28,6 +28,20 @@ a:hover{
   margin-top: 15px;
 }
 
+.casitaImagen{
+  display: inline-block;
+  position: relative;
+}
+.tacheCerrar{
+  color:#CC66CC;
+  padding: 10px;
+  font-size: 20px;
+  position: absolute;
+  font-family: 'Sniglet', cursive;
+
+
+}
+
 img{
   display:inline-block;
   margin:10px;
