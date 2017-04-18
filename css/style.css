@@ -1,0 +1,40 @@
+body{
+  background-color: #FAFAD2;
+
+}
+*{
+  margin:0;
+  padding:0;
+}
+
+header{
+  width: auto;
+  height: 40px;
+  background:#FFE4C4;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 140%;
+  text-align: right;
+}
+a{
+  color:#FFC0CB;
+  text-decoration: none;
+  padding: 10px;
+}
+a:hover{
+  color:#D3D3D3;
+}
+#almacenImagenes{
+  margin-left: 300px;
+  margin-top: 15px;
+}
+
+img{
+  display:inline-block;
+  margin:10px;
+  width:150px;
+  height: 150px;
+  border-radius: 20px;
+  image-orientation:
+
+
+}
